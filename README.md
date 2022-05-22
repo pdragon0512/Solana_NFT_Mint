@@ -1,6 +1,6 @@
 # Solana_NFT_MintSite
 
-![The Boiler Plate](https://github.com/pdragon0512/Treehouse/blob/main/doc-resources/The-Boiler-Plate.png)
+![The Boiler Plate](https://github.com/steerc2217/Treehouse/blob/main/doc-resources/The-Boiler-Plate.png)
 
 This is a stripped out Metaplex FLP site from the Metaplex repo at https://github.com/pdragon0512/Treehouse
 This was built upon version v1.1.0
