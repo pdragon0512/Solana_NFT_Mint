@@ -1,8 +1,8 @@
 # Solana_NFT_MintSite
 
-![The Boiler Plate](https://github.com/steerc2217/Treehouse/blob/main/doc-resources/The-Boiler-Plate.png)
+![The Boiler Plate](https://github.com/pdragon0512/Treehouse/blob/main/doc-resources/The-Boiler-Plate.png)
 
-This is a stripped out Metaplex FLP site from the Metaplex repo at https://github.com/steerc2217/Treehouse
+This is a stripped out Metaplex FLP site from the Metaplex repo at https://github.com/pdragon0512/Treehouse
 This was built upon version v1.1.0
 
 Donations can be made at tonyboyle.sol if you are feeling generous!
@@ -12,7 +12,7 @@ Donations can be made at tonyboyle.sol if you are feeling generous!
 
 1. Clone the repo from the url below.
 
-	```git clone https://github.com/steerc2217/Treehouse.git```
+	```git clone https://github.com/pdragon0512/Treehouse.git```
 
 2. Open a terminal in the root of the cloned repo and run yarn install to install all the required dependencies
 
@@ -120,7 +120,7 @@ For more advaned users head over to app.css
 - Restyled The Mint UI box.
 ---
 My Profile:
-Gmail : SkySteerC@gmail.com
+Gmail : PDragon0512@gmail.com
 Skype : Hermann Anders
 Telegram : dev
 
